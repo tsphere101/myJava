@@ -1,0 +1,4 @@
+//ต้องเสร็จภายใน 24 hrs.
+ทำเกม 24 โดยใช้ JAVA : https://www.youtube.com/watch?v=mE3rbtKm-pk
+
+make login GUI JAVA : https://www.youtube.com/watch?v=iE8tZ0hn2Ws
