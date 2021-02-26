@@ -13,12 +13,12 @@ public class DynamicArray<T> {
     private T[] arr;
 
     /**
-     * The last index of element in the array.
+     * The index of the last element in the array.
      */
     private int length = 0;
 
     /**
-     * Allocated array capacity.
+     * Allocated slots.
      */
     private int capacity = 0;
 
